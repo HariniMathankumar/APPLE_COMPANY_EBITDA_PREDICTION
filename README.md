@@ -6,7 +6,7 @@ This project analyzes Apple Inc.'s historical financial data and forecasts futur
 
 ## 📁 Dataset
 
-- **Source**: Apple Inc. financial records (2009–2024)
+- **Source**: Apple Inc. financial records (2009–2024)| <a href="https://github.com/HariniMathankumar/APPLE_COMPANY_EBITDA_PREDICTION/blob/main/Apple%202009-2024.csv">Link</a>
 - **Format**: `.csv`
 - **Features Used**:
   - Year
