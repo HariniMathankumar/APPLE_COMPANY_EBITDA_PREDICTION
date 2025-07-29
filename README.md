@@ -63,8 +63,8 @@ This project analyzes Apple Inc.'s historical financial data and forecasts futur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/apple-ebitda-prediction.git
-   cd apple-ebitda-prediction
+   git clone https://github.com/HariniMathankumar/APPLE_COMPANY_EBITDA_PREDICTION.git
+   cd APPLE_COMPANY_EBITDA_PREDICTION
 2.Open the Jupyter Notebook:
 
 bash
